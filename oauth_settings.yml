@@ -1,0 +1,9 @@
+app_id: "c4147fba-80f7-4457-ae5f-5e839ffcce11"
+app_secret: "5827a3e1-3f56-4278-8b6a-e94fbf785ff0"
+redirect: "http://localhost/callback"
+scopes:
+  - User.Read
+  - TeamsApp.ReadWrite.All
+  - Calendars.ReadWrite
+authority: "https://login.microsoftonline.com/common"
+base_url: "https://graph.microsoft.com/v1.0/"
